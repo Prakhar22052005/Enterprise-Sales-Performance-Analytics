@@ -18,11 +18,11 @@ An enterprise-grade Excel analytics solution designed to consolidate beverage re
 ## 📸 Project Visuals & Screenshots
 
 ### 1. Executive Dashboard Overview
-![Executive Dashboard](https://raw.githubusercontent.com/Prakhar22052005/Enterprise-Sales-Performance-Analytics/main/documentation/executive_dashboard.png)
+![Executive Dashboard](<img width="955" height="532" alt="executive_dashboard" src="https://github.com/user-attachments/assets/7a07e53d-3c07-4fd4-abee-4ff0f9cdb695" />)
 > Primary view featuring high-level KPI cards, monthly sales trends, and regional revenue distribution.
 
 ### 2. Budget vs. Actual Financial & Break-Even Model
-![Financial Model](https://raw.githubusercontent.com/Prakhar22052005/Enterprise-Sales-Performance-Analytics/main/documentation/financial_model.png)
+![Financial Model](<img width="1246" height="560" alt="financial_model" src="https://github.com/user-attachments/assets/67b6e99c-2d99-4472-bc24-da4c05d07b3b" />)
 > Dynamic scenario analysis showing variance math and unit break-even volume based on editable assumptions (3% budget growth, $500K fixed costs).
 
 ### 3. Advanced Excel Functions & Dynamic Lookups
