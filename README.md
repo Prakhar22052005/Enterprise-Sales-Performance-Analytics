@@ -18,19 +18,24 @@ An enterprise-grade Excel analytics solution designed to consolidate beverage re
 ## 📸 Project Visuals & Screenshots
 
 ### 1. Executive Dashboard Overview
-![Executive Dashboard](./documentation/executive_dashboard.png)
+
+![Executive Dashboard](<img width="955" height="532" alt="executive_dashboard" src="https://github.com/user-attachments/assets/bc59c92e-f45d-421a-a4b4-d09ed29770f6" />)
+
 > Primary view featuring high-level KPI cards, monthly sales trends, and regional revenue distribution.
 
 ### 2. Budget vs. Actual Financial & Break-Even Model
-![Financial Model](./documentation/financial_model.png)
+
+![Financial Model](<img width="1246" height="560" alt="financial_model" src="https://github.com/user-attachments/assets/08677849-ba04-4fb6-a60f-8e4a95d6fbe9" />)
 > Dynamic scenario analysis showing variance math and unit break-even volume based on editable assumptions (3% budget growth, $500K fixed costs).
 
 ### 3. Advanced Excel Functions & Dynamic Lookups
-![Advanced Functions](./documentation/advanced_functions.png)
+
+![Advanced Functions](<img width="1511" height="577" alt="advanced_functions" src="https://github.com/user-attachments/assets/708898c1-ceac-4b06-ba46-a729b6d3a69a" />)
 > Technical implementation using dynamic array brand performance tables and lookup formulas (`XLOOKUP`, `INDEX/MATCH`).
 
 ### 4. Power Pivot Regional Performance Analysis
-![Power Pivot Report](./documentation/power_pivot_report.png)
+
+![Power Pivot Report](<img width="371" height="187" alt="power_pivot_report" src="https://github.com/user-attachments/assets/ea3e9e4b-6901-4bdc-ae32-7c52e095896b" />)
 > Aggregated pivot summary comparing regional revenue breakdown and overall operating profitability.
 
 ---
