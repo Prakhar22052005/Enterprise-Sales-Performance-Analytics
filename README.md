@@ -18,19 +18,19 @@ An enterprise-grade Excel analytics solution designed to consolidate beverage re
 ## 📸 Project Visuals & Screenshots
 
 ### 1. Executive Dashboard Overview
-![Executive Dashboard](documentation/01_executive_dashboard.png)
+![Executive Dashboard](documentation/executive_dashboard.png)
 > Primary view featuring high-level KPI cards, monthly sales trends, and regional revenue distribution.
 
 ### 2. Budget vs. Actual Financial & Break-Even Model
-![Financial Model](documentation/02_financial_model.png)
+![Financial Model](documentation/financial_model.png)
 > Dynamic scenario analysis showing variance math and unit break-even volume based on editable assumptions (3% budget growth, $500K fixed costs).
 
 ### 3. Advanced Excel Functions & Dynamic Lookups
-![Advanced Functions](documentation/03_advanced_functions.png)
-> Technical implementation using dynamic dynamic array brand performance tables and lookup formulas (`XLOOKUP`, `INDEX/MATCH`).
+![Advanced Functions](documentation/advanced_functions.png)
+> Technical implementation using dynamic array brand performance tables and lookup formulas (`XLOOKUP`, `INDEX/MATCH`).
 
 ### 4. Power Pivot Regional Performance Analysis
-![Power Pivot Report](documentation/04_power_pivot_report.png)
+![Power Pivot Report](documentation/power_pivot_report.png)
 > Aggregated pivot summary comparing regional revenue breakdown and overall operating profitability.
 
 ---
