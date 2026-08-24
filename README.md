@@ -26,11 +26,13 @@ An enterprise-grade Excel analytics solution designed to consolidate beverage re
 > Dynamic scenario analysis showing variance math and unit break-even volume based on editable assumptions (3% budget growth, $500K fixed costs).
 
 ### 3. Advanced Excel Functions & Dynamic Lookups
-![Advanced Functions](https://raw.githubusercontent.com/Prakhar22052005/Enterprise-Sales-Performance-Analytics/main/documentation/advanced_functions.png)
+(<img width="1511" height="577" alt="advanced_functions" src="https://github.com/user-attachments/assets/6933fea5-45e1-42d7-9277-00116871b5e0" />)
+
 > Technical implementation using dynamic array brand performance tables and lookup formulas (`XLOOKUP`, `INDEX/MATCH`).
 
 ### 4. Power Pivot Regional Performance Analysis
-![Power Pivot Report](https://raw.githubusercontent.com/Prakhar22052005/Enterprise-Sales-Performance-Analytics/main/documentation/power_pivot_report.png)
+(<img width="371" height="187" alt="power_pivot_report" src="https://github.com/user-attachments/assets/4a6076fe-4557-407e-a99a-edc29936f373" />)
+
 > Aggregated pivot summary comparing regional revenue breakdown and overall operating profitability.
 
 ---
@@ -39,7 +41,7 @@ An enterprise-grade Excel analytics solution designed to consolidate beverage re
 
 | Tab Order | Sheet Name | Visibility | Purpose & Function |
 | :---: | :--- | :---: | :--- |
-| **1** | `Dashboard (3)` | Visible | Primary executive dashboard with monthly trends, visual KPIs, and region summaries. |
+| **1** | `Dashboard` | Visible | Primary executive dashboard with monthly trends, visual KPIs, and region summaries. |
 | **2** | `Data_Calculations` | Visible | Backend aggregation tables supporting dashboard visuals. |
 | **3** | `Data` | Visible | Master transaction database containing granular sales, retailer, and pricing records. |
 | **4** | `Financial_Model` | Visible | Budget vs. Actual scenario modeling, growth assumptions (3%), and break-even unit analysis. |
